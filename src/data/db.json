@@ -1,0 +1,1226 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "slug": "bags",
+            "title": "Bags Collection",
+            "description": "A curated collection of stylish and practical bags for everyday carry, travel, and work."
+        },
+        {
+            "id": 2,
+            "slug": "shoes",
+            "title": "Shoes Collection",
+            "description": "A versatile lineup of comfortable and fashionable shoes designed for daily wear and active lifestyles."
+        }
+    ],
+    "products": [
+        {
+            "id": 7,
+            "title": "Classic Tote Bag 7",
+            "slug": "classic-tote-bag-7",
+            "description": "Classic Tote Bag 7: daily carry, $67 sale, 3.5★.",
+            "images": [
+                "https://i.imgur.com/mp3rUty.jpeg",
+                "https://i.imgur.com/JQRGIc2.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 79,
+            "rating": 4,
+            "color": "black",
+            "size": "s",
+            "salePrice": 67
+        },
+        {
+            "id": 9,
+            "title": "Canvas Shopper Bag 9",
+            "slug": "canvas-shopper-bag-9",
+            "description": "Canvas Shopper Bag 9: daily carry, $61, 4.1★.",
+            "images": [
+                "https://i.imgur.com/R3iobJA.jpeg",
+                "https://i.imgur.com/Wv2KTsf.jpeg",
+                "https://i.imgur.com/76HAxcA.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 61,
+            "rating": 4,
+            "color": "white",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 11,
+            "title": "Travel Duffel Bag 11",
+            "slug": "travel-duffel-bag-11",
+            "description": "Travel Duffel Bag 11: daily carry, $35, 4.7★.",
+            "images": [
+                "https://i.imgur.com/cBuLvBi.jpeg",
+                "https://i.imgur.com/N1GkCIR.jpeg",
+                "https://i.imgur.com/kKc9A5p.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 35,
+            "rating": 5,
+            "color": "brown",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 13,
+            "title": "Everyday Shoulder Bag 13",
+            "slug": "everyday-shoulder-bag-13",
+            "description": "Everyday Shoulder Bag 13: daily carry, $71 sale, 3.5★.",
+            "images": [
+                "https://i.imgur.com/UsFIvYs.jpeg",
+                "https://i.imgur.com/YIq57b6.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 84,
+            "rating": 4,
+            "color": "navy",
+            "size": "s",
+            "salePrice": 71
+        },
+        {
+            "id": 15,
+            "title": "Compact Utility Bag 15",
+            "slug": "compact-utility-bag-15",
+            "description": "Compact Utility Bag 15: daily carry, $39, 4.1★.",
+            "images": [
+                "https://i.imgur.com/axsyGpD.jpeg",
+                "https://i.imgur.com/T8oq9X2.jpeg",
+                "https://i.imgur.com/J6MinJn.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 39,
+            "rating": 4,
+            "color": "red",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 17,
+            "title": "Classic Tote Bag 17",
+            "slug": "classic-tote-bag-17",
+            "description": "Classic Tote Bag 17: daily carry, $35, 4.7★.",
+            "images": [
+                "https://i.imgur.com/9DqEOV5.jpeg",
+                "https://i.imgur.com/ae0AEYn.jpeg",
+                "https://i.imgur.com/mZ4rUjj.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 35,
+            "rating": 5,
+            "color": "beige",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 19,
+            "title": "Canvas Shopper Bag 19",
+            "slug": "canvas-shopper-bag-19",
+            "description": "Canvas Shopper Bag 19: daily carry, $37 sale, 3.5★.",
+            "images": [
+                "https://i.imgur.com/yVeIeDa.jpeg",
+                "https://i.imgur.com/jByJ4ih.jpeg",
+                "https://i.imgur.com/KXj6Tpb.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 44,
+            "rating": 4,
+            "color": "gray",
+            "size": "s",
+            "salePrice": 37
+        },
+        {
+            "id": 21,
+            "title": "Travel Duffel Bag 21",
+            "slug": "travel-duffel-bag-21",
+            "description": "Travel Duffel Bag 21: daily carry, $48, 4.1★.",
+            "images": [
+                "https://i.imgur.com/keVCVIa.jpeg",
+                "https://i.imgur.com/afHY7v2.jpeg",
+                "https://i.imgur.com/yAOihUe.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 48,
+            "rating": 4,
+            "color": "olive",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 23,
+            "title": "Everyday Shoulder Bag 23",
+            "slug": "everyday-shoulder-bag-23",
+            "description": "Everyday Shoulder Bag 23: daily carry, $43, 4.7★.",
+            "images": [
+                "https://i.imgur.com/OKn1KFI.jpeg",
+                "https://i.imgur.com/G4f21Ai.jpeg",
+                "https://i.imgur.com/Z9oKRVJ.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 43,
+            "rating": 5,
+            "color": "tan",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 25,
+            "title": "Compact Utility Bag 25",
+            "slug": "compact-utility-bag-25",
+            "description": "Compact Utility Bag 25: daily carry, $33 sale, 3.5★.",
+            "images": [
+                "https://i.imgur.com/YaSqa06.jpeg",
+                "https://i.imgur.com/isQAliJ.jpeg",
+                "https://i.imgur.com/5B8UQfh.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 39,
+            "rating": 4,
+            "color": "blue",
+            "size": "s",
+            "salePrice": 33
+        },
+        {
+            "id": 27,
+            "title": "Classic Tote Bag 27",
+            "slug": "classic-tote-bag-27",
+            "description": "Classic Tote Bag 27: daily carry, $16, 4.1★.",
+            "images": [
+                "https://i.imgur.com/LGk9Jn2.jpeg",
+                "https://i.imgur.com/1ttYWaI.jpeg",
+                "https://i.imgur.com/sPRWnJH.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 16,
+            "rating": 4,
+            "color": "black",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 29,
+            "title": "Canvas Shopper Bag 29",
+            "slug": "canvas-shopper-bag-29",
+            "description": "Canvas Shopper Bag 29: daily carry, $24, 4.7★.",
+            "images": [
+                "https://i.imgur.com/DMQHGA0.jpeg",
+                "https://i.imgur.com/qrs9QBg.jpeg",
+                "https://i.imgur.com/XVp8T1I.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 24,
+            "rating": 5,
+            "color": "white",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 31,
+            "title": "Travel Duffel Bag 31",
+            "slug": "travel-duffel-bag-31",
+            "description": "Travel Duffel Bag 31: daily carry, $21 sale, 3.5★.",
+            "images": [
+                "https://i.imgur.com/6wkyyIN.jpeg",
+                "https://i.imgur.com/Ald3Rec.jpeg",
+                "https://i.imgur.com/dIqo03c.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 25,
+            "rating": 4,
+            "color": "brown",
+            "size": "s",
+            "salePrice": 21
+        },
+        {
+            "id": 33,
+            "title": "Everyday Shoulder Bag 33",
+            "slug": "everyday-shoulder-bag-33",
+            "description": "Everyday Shoulder Bag 33: daily carry, $49, 4.1★.",
+            "images": [
+                "https://i.imgur.com/3oXNBst.jpeg",
+                "https://i.imgur.com/ErYYZnT.jpeg",
+                "https://i.imgur.com/boBPwYW.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "bags",
+            "price": 49,
+            "rating": 4,
+            "color": "navy",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 77,
+            "title": "Compact Utility Bag 77",
+            "slug": "compact-utility-bag-77",
+            "description": "Compact Utility Bag 77: daily carry, $112, 4.7★.",
+            "images": [
+                "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+            ],
+            "creationAt": "2026-02-28T01:49:03.000Z",
+            "updatedAt": "2026-02-28T01:49:03.000Z",
+            "category": "bags",
+            "price": 112,
+            "rating": 5,
+            "color": "red",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 79,
+            "title": "Classic Tote Bag 79",
+            "slug": "classic-tote-bag-79",
+            "description": "Classic Tote Bag 79: daily carry, $127 sale, 3.5★.",
+            "images": [
+                "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+            ],
+            "creationAt": "2026-02-28T03:18:58.000Z",
+            "updatedAt": "2026-02-28T03:18:58.000Z",
+            "category": "bags",
+            "price": 149,
+            "rating": 4,
+            "color": "beige",
+            "size": "s",
+            "salePrice": 127
+        },
+        {
+            "id": 81,
+            "title": "Canvas Shopper Bag 81",
+            "slug": "canvas-shopper-bag-81",
+            "description": "Canvas Shopper Bag 81: daily carry, $99, 4.1★.",
+            "images": [
+                "https://down-br.img.susercontent.com/file/br-11134201-7r98o-m7bew9cw6jeac3"
+            ],
+            "creationAt": "2026-02-28T03:24:39.000Z",
+            "updatedAt": "2026-02-28T03:24:39.000Z",
+            "category": "bags",
+            "price": 99,
+            "rating": 4,
+            "color": "gray",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 83,
+            "title": "Travel Duffel Bag 83",
+            "slug": "travel-duffel-bag-83",
+            "description": "Travel Duffel Bag 83: daily carry, $49, 4.7★.",
+            "images": [
+                "https://api.agorasoumae.com.br/images/kit-2-regatas-malha-multifional-gestante-e-amamentacao-6172a414-d4b1-4b2b-a532-0ff6bd184725.jpg"
+            ],
+            "creationAt": "2026-02-28T03:30:46.000Z",
+            "updatedAt": "2026-02-28T03:30:46.000Z",
+            "category": "bags",
+            "price": 49,
+            "rating": 5,
+            "color": "olive",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 85,
+            "title": "Everyday Shoulder Bag 85",
+            "slug": "everyday-shoulder-bag-85",
+            "description": "Everyday Shoulder Bag 85: daily carry, $50 sale, 3.5★.",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+            ],
+            "creationAt": "2026-02-28T03:34:38.000Z",
+            "updatedAt": "2026-02-28T03:34:38.000Z",
+            "category": "bags",
+            "price": 59,
+            "rating": 4,
+            "color": "tan",
+            "size": "s",
+            "salePrice": 50
+        },
+        {
+            "id": 87,
+            "title": "Compact Utility Bag 87",
+            "slug": "compact-utility-bag-87",
+            "description": "Compact Utility Bag 87: daily carry, $119, 4.1★.",
+            "images": [
+                "https://http2.mlstatic.com/D_NQ_NP_2X_739823-MLB82291836043_022025-F-camisa-polo-masculina-social-basica-malha-piquet-lisa.webp"
+            ],
+            "creationAt": "2026-02-28T03:37:10.000Z",
+            "updatedAt": "2026-02-28T03:37:10.000Z",
+            "category": "bags",
+            "price": 119,
+            "rating": 4,
+            "color": "blue",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 89,
+            "title": "Classic Tote Bag 89",
+            "slug": "classic-tote-bag-89",
+            "description": "Classic Tote Bag 89: daily carry, $189, 4.7★.",
+            "images": [
+                "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQG3DYn-n6O-aiPsspVs6FNphyK5COBHwAe9LScifUAFXaGNHVuZLgZmKexfb8Mw-KsbzLp5Lg_zTi7-9D0unZX2LSeQ9D_rw"
+            ],
+            "creationAt": "2026-02-28T03:40:05.000Z",
+            "updatedAt": "2026-02-28T03:40:05.000Z",
+            "category": "bags",
+            "price": 189,
+            "rating": 5,
+            "color": "black",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 91,
+            "title": "Canvas Shopper Bag 91",
+            "slug": "canvas-shopper-bag-91",
+            "description": "Canvas Shopper Bag 91: daily carry, $169 sale, 3.5★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/616bKxLrS7L._AC_SY695_.jpg"
+            ],
+            "creationAt": "2026-02-28T03:43:14.000Z",
+            "updatedAt": "2026-02-28T03:43:14.000Z",
+            "category": "bags",
+            "price": 199,
+            "rating": 4,
+            "color": "white",
+            "size": "s",
+            "salePrice": 169
+        },
+        {
+            "id": 93,
+            "title": "Travel Duffel Bag 93",
+            "slug": "travel-duffel-bag-93",
+            "description": "Travel Duffel Bag 93: daily carry, $249, 4.1★.",
+            "images": [
+                "https://m.magazineluiza.com.br/a-static/420x420/sapato-social-masculino-cadarco-liso-confortavel-dia-a-dia-sapataria-bertelli/pastoricalcadosonline/70018pto39/f426d22c00e099beeba22946b45d6ecc.jpeg"
+            ],
+            "creationAt": "2026-02-28T03:46:45.000Z",
+            "updatedAt": "2026-02-28T03:46:45.000Z",
+            "category": "bags",
+            "price": 249,
+            "rating": 4,
+            "color": "brown",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 95,
+            "title": "Everyday Shoulder Bag 95",
+            "slug": "everyday-shoulder-bag-95",
+            "description": "Everyday Shoulder Bag 95: daily carry, $49, 4.7★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/61C29XgjRKL._AC_SY695_.jpg"
+            ],
+            "creationAt": "2026-02-28T03:49:07.000Z",
+            "updatedAt": "2026-02-28T03:49:07.000Z",
+            "category": "bags",
+            "price": 49,
+            "rating": 5,
+            "color": "navy",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 98,
+            "title": "Compact Utility Bag 98",
+            "slug": "compact-utility-bag-98",
+            "description": "Compact Utility Bag 98: daily carry, $161 sale, 3.5★.",
+            "images": [
+                "https://qvestido.fbitsstatic.net/img/p/vestido-midi-em-crepe-estampa-floral-luzia-fazzolli-79844/304987-2.jpg?w=630&h=930&v=no-change&qs=ignore"
+            ],
+            "creationAt": "2026-02-28T03:59:50.000Z",
+            "updatedAt": "2026-02-28T03:59:50.000Z",
+            "category": "bags",
+            "price": 189,
+            "rating": 4,
+            "color": "red",
+            "size": "s",
+            "salePrice": 161
+        },
+        {
+            "id": 100,
+            "title": "Classic Tote Bag 100",
+            "slug": "classic-tote-bag-100",
+            "description": "Classic Tote Bag 100: daily carry, $259, 4.1★.",
+            "images": [
+                "https://popstore.com.br/popstorage/products_photos/175810/webp/miss-misses-54632060-vestido-eliza-longo-c-ziper-rosa-31482519.webp"
+            ],
+            "creationAt": "2026-02-28T04:02:30.000Z",
+            "updatedAt": "2026-02-28T04:02:30.000Z",
+            "category": "bags",
+            "price": 259,
+            "rating": 4,
+            "color": "beige",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 102,
+            "title": "Canvas Shopper Bag 102",
+            "slug": "canvas-shopper-bag-102",
+            "description": "Canvas Shopper Bag 102: daily carry, $229, 4.7★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/615O3zVkvyL._AC_SX679_.jpg"
+            ],
+            "creationAt": "2026-02-28T04:05:08.000Z",
+            "updatedAt": "2026-02-28T04:05:08.000Z",
+            "category": "bags",
+            "price": 229,
+            "rating": 5,
+            "color": "gray",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 106,
+            "title": "Travel Duffel Bag 106",
+            "slug": "travel-duffel-bag-106",
+            "description": "Travel Duffel Bag 106: daily carry, $76 sale, 3.5★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/51F-QLsq0CL._AC_SX679_.jpg"
+            ],
+            "creationAt": "2026-02-28T04:10:49.000Z",
+            "updatedAt": "2026-02-28T04:10:49.000Z",
+            "category": "bags",
+            "price": 89,
+            "rating": 4,
+            "color": "olive",
+            "size": "s",
+            "salePrice": 76
+        },
+        {
+            "id": 109,
+            "title": "Everyday Shoulder Bag 109",
+            "slug": "everyday-shoulder-bag-109",
+            "description": "Everyday Shoulder Bag 109: daily carry, $10, 4.1★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T04:43:46.000Z",
+            "updatedAt": "2026-02-28T04:43:46.000Z",
+            "category": "bags",
+            "price": 10,
+            "rating": 4,
+            "color": "tan",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 112,
+            "title": "Compact Utility Bag 112",
+            "slug": "compact-utility-bag-112",
+            "description": "Compact Utility Bag 112: daily carry, $20, 4.7★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T05:13:55.000Z",
+            "updatedAt": "2026-02-28T05:13:55.000Z",
+            "category": "bags",
+            "price": 20,
+            "rating": 5,
+            "color": "blue",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 115,
+            "title": "Classic Tote Bag 115",
+            "slug": "classic-tote-bag-115",
+            "description": "Classic Tote Bag 115: daily carry, $213 sale, 3.5★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T05:27:00.000Z",
+            "updatedAt": "2026-02-28T07:21:55.000Z",
+            "category": "bags",
+            "price": 250,
+            "rating": 4,
+            "color": "black",
+            "size": "s",
+            "salePrice": 213
+        },
+        {
+            "id": 117,
+            "title": "Canvas Shopper Bag 117",
+            "slug": "canvas-shopper-bag-117",
+            "description": "Canvas Shopper Bag 117: daily carry, $250, 4.1★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T05:38:09.000Z",
+            "updatedAt": "2026-02-28T05:38:09.000Z",
+            "category": "bags",
+            "price": 250,
+            "rating": 4,
+            "color": "white",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 140,
+            "title": "Travel Duffel Bag 140",
+            "slug": "travel-duffel-bag-140",
+            "description": "Travel Duffel Bag 140: daily carry, $1200, 4.7★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T10:23:35.000Z",
+            "updatedAt": "2026-02-28T10:24:00.000Z",
+            "category": "bags",
+            "price": 1200,
+            "rating": 5,
+            "color": "brown",
+            "size": "l",
+            "salePrice": null
+        },
+        {
+            "id": 142,
+            "title": "Everyday Shoulder Bag 142",
+            "slug": "everyday-shoulder-bag-142",
+            "description": "Everyday Shoulder Bag 142: daily carry, $935 sale, 3.5★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/615O3zVkvyL._AC_SX679_.jpg"
+            ],
+            "creationAt": "2026-02-28T11:04:57.000Z",
+            "updatedAt": "2026-02-28T11:04:57.000Z",
+            "category": "bags",
+            "price": 1100,
+            "rating": 4,
+            "color": "navy",
+            "size": "s",
+            "salePrice": 935
+        },
+        {
+            "id": 8,
+            "title": "Streetwear Sneakers 8",
+            "slug": "streetwear-sneakers-8",
+            "description": "Streetwear Sneakers 8: all-day comfort, $98, 3.8★.",
+            "images": [
+                "https://i.imgur.com/9LFjwpI.jpeg",
+                "https://i.imgur.com/vzrTgUR.jpeg",
+                "https://i.imgur.com/p5NdI6n.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 98,
+            "rating": 4,
+            "color": "red",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 10,
+            "title": "Daily Trainer Shoes 10",
+            "slug": "daily-trainer-shoes-10",
+            "description": "Daily Trainer Shoes 10: all-day comfort, $73 sale, 4.4★.",
+            "images": [
+                "https://i.imgur.com/wXuQ7bm.jpeg",
+                "https://i.imgur.com/BZrIEmb.jpeg",
+                "https://i.imgur.com/KcT6BE0.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 86,
+            "rating": 4,
+            "color": "beige",
+            "size": "l",
+            "salePrice": 73
+        },
+        {
+            "id": 12,
+            "title": "Comfort Slip-On Shoes 12",
+            "slug": "comfort-slip-on-shoes-12",
+            "description": "Comfort Slip-On Shoes 12: all-day comfort, $58, 5.0★.",
+            "images": [
+                "https://i.imgur.com/KeqG6r4.jpeg",
+                "https://i.imgur.com/xGQOw3p.jpeg",
+                "https://i.imgur.com/oO5OUjb.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 58,
+            "rating": 5,
+            "color": "gray",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 14,
+            "title": "Performance Sport Shoes 14",
+            "slug": "performance-sport-shoes-14",
+            "description": "Performance Sport Shoes 14: all-day comfort, $43, 3.8★.",
+            "images": [
+                "https://i.imgur.com/eGOUveI.jpeg",
+                "https://i.imgur.com/UcsGO7E.jpeg",
+                "https://i.imgur.com/NLn4e7S.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 43,
+            "rating": 4,
+            "color": "olive",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 16,
+            "title": "Premium Dress Shoes 16",
+            "slug": "premium-dress-shoes-16",
+            "description": "Premium Dress Shoes 16: all-day comfort, $62 sale, 4.4★.",
+            "images": [
+                "https://i.imgur.com/Y54Bt8J.jpeg",
+                "https://i.imgur.com/SZPDSgy.jpeg",
+                "https://i.imgur.com/sJv4Xx0.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 73,
+            "rating": 4,
+            "color": "tan",
+            "size": "l",
+            "salePrice": 62
+        },
+        {
+            "id": 18,
+            "title": "Streetwear Sneakers 18",
+            "slug": "streetwear-sneakers-18",
+            "description": "Streetwear Sneakers 18: all-day comfort, $69, 5.0★.",
+            "images": [
+                "https://i.imgur.com/ZANVnHE.jpeg",
+                "https://i.imgur.com/Ro5z6Tn.jpeg",
+                "https://i.imgur.com/woA93Li.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 69,
+            "rating": 5,
+            "color": "blue",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 20,
+            "title": "Daily Trainer Shoes 20",
+            "slug": "daily-trainer-shoes-20",
+            "description": "Daily Trainer Shoes 20: all-day comfort, $28, 3.8★.",
+            "images": [
+                "https://i.imgur.com/SolkFEB.jpeg",
+                "https://i.imgur.com/KIGW49u.jpeg",
+                "https://i.imgur.com/mWwek7p.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 28,
+            "rating": 4,
+            "color": "black",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 22,
+            "title": "Comfort Slip-On Shoes 22",
+            "slug": "comfort-slip-on-shoes-22",
+            "description": "Comfort Slip-On Shoes 22: all-day comfort, $9 sale, 4.4★.",
+            "images": [
+                "https://i.imgur.com/w3Y8NwQ.jpeg",
+                "https://i.imgur.com/WJFOGIC.jpeg",
+                "https://i.imgur.com/dV4Nklf.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 10,
+            "rating": 4,
+            "color": "white",
+            "size": "l",
+            "salePrice": 9
+        },
+        {
+            "id": 24,
+            "title": "Performance Sport Shoes 24",
+            "slug": "performance-sport-shoes-24",
+            "description": "Performance Sport Shoes 24: all-day comfort, $97, 5.0★.",
+            "images": [
+                "https://i.imgur.com/ItHcq7o.jpeg",
+                "https://i.imgur.com/55GM3XZ.jpeg",
+                "https://i.imgur.com/tcNJxoW.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 97,
+            "rating": 5,
+            "color": "brown",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 26,
+            "title": "Premium Dress Shoes 26",
+            "slug": "premium-dress-shoes-26",
+            "description": "Premium Dress Shoes 26: all-day comfort, $27, 3.8★.",
+            "images": [
+                "https://i.imgur.com/yb9UQKL.jpeg",
+                "https://i.imgur.com/m2owtQG.jpeg",
+                "https://i.imgur.com/bNiORct.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 27,
+            "rating": 4,
+            "color": "navy",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 28,
+            "title": "Streetwear Sneakers 28",
+            "slug": "streetwear-sneakers-28",
+            "description": "Streetwear Sneakers 28: all-day comfort, $45 sale, 4.4★.",
+            "images": [
+                "https://i.imgur.com/Qphac99.jpeg",
+                "https://i.imgur.com/dJjpEgG.jpeg",
+                "https://i.imgur.com/MxJyADq.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 53,
+            "rating": 4,
+            "color": "red",
+            "size": "l",
+            "salePrice": 45
+        },
+        {
+            "id": 30,
+            "title": "Daily Trainer Shoes 30",
+            "slug": "daily-trainer-shoes-30",
+            "description": "Daily Trainer Shoes 30: all-day comfort, $66, 5.0★.",
+            "images": [
+                "https://i.imgur.com/NWIJKUj.jpeg",
+                "https://i.imgur.com/Jn1YSLk.jpeg",
+                "https://i.imgur.com/VNZRvx5.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 66,
+            "rating": 5,
+            "color": "beige",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 32,
+            "title": "Comfort Slip-On Shoes 32",
+            "slug": "comfort-slip-on-shoes-32",
+            "description": "Comfort Slip-On Shoes 32: all-day comfort, $67, 3.8★.",
+            "images": [
+                "https://i.imgur.com/4lTaHfF.jpeg",
+                "https://i.imgur.com/JktHE1C.jpeg",
+                "https://i.imgur.com/cQeXQMi.jpeg"
+            ],
+            "creationAt": "2026-02-27T15:24:17.000Z",
+            "updatedAt": "2026-02-27T15:24:17.000Z",
+            "category": "shoes",
+            "price": 67,
+            "rating": 4,
+            "color": "gray",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 76,
+            "title": "Performance Sport Shoes 76",
+            "slug": "performance-sport-shoes-76",
+            "description": "Performance Sport Shoes 76: all-day comfort, $85 sale, 4.4★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T01:28:12.000Z",
+            "updatedAt": "2026-02-28T01:28:12.000Z",
+            "category": "shoes",
+            "price": 100,
+            "rating": 4,
+            "color": "olive",
+            "size": "l",
+            "salePrice": 85
+        },
+        {
+            "id": 78,
+            "title": "Premium Dress Shoes 78",
+            "slug": "premium-dress-shoes-78",
+            "description": "Premium Dress Shoes 78: all-day comfort, $79, 5.0★.",
+            "images": [
+                "https://down-br.img.susercontent.com/file/br-11134207-7r98o-maf33zkw5tkp7e@resize_w900_nl.webp"
+            ],
+            "creationAt": "2026-02-28T03:17:59.000Z",
+            "updatedAt": "2026-02-28T03:17:59.000Z",
+            "category": "shoes",
+            "price": 79,
+            "rating": 5,
+            "color": "tan",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 80,
+            "title": "Streetwear Sneakers 80",
+            "slug": "streetwear-sneakers-80",
+            "description": "Streetwear Sneakers 80: all-day comfort, $129, 3.8★.",
+            "images": [
+                "https://http2.mlstatic.com/D_NQ_NP_2X_887222-MLB87712107488_072025-F-camisa-feminina-social-branca-manga-longa-elegante.webp"
+            ],
+            "creationAt": "2026-02-28T03:22:25.000Z",
+            "updatedAt": "2026-02-28T03:22:25.000Z",
+            "category": "shoes",
+            "price": 129,
+            "rating": 4,
+            "color": "blue",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 82,
+            "title": "Daily Trainer Shoes 82",
+            "slug": "daily-trainer-shoes-82",
+            "description": "Daily Trainer Shoes 82: all-day comfort, $118 sale, 4.4★.",
+            "images": [
+                "https://http2.mlstatic.com/D_NQ_NP_2X_651164-MLB105238437714_012026-F-saia-midi-plissada-em-crepe-com-forro-elegante-e-confortavel.webp"
+            ],
+            "creationAt": "2026-02-28T03:28:44.000Z",
+            "updatedAt": "2026-02-28T03:28:44.000Z",
+            "category": "shoes",
+            "price": 139,
+            "rating": 4,
+            "color": "black",
+            "size": "l",
+            "salePrice": 118
+        },
+        {
+            "id": 84,
+            "title": "Comfort Slip-On Shoes 84",
+            "slug": "comfort-slip-on-shoes-84",
+            "description": "Comfort Slip-On Shoes 84: all-day comfort, $179, 5.0★.",
+            "images": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnhwsgd6TAdwjk8RNWrV0zqX5ZTJKnJ_4EbCNrhAI6g8UmRQyYGk4SQgJrBtQn3LO41577b_ZZOQ9P_GY_9mVHPp802ekb"
+            ],
+            "creationAt": "2026-02-28T03:33:10.000Z",
+            "updatedAt": "2026-02-28T03:33:10.000Z",
+            "category": "shoes",
+            "price": 179,
+            "rating": 5,
+            "color": "white",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 86,
+            "title": "Performance Sport Shoes 86",
+            "slug": "performance-sport-shoes-86",
+            "description": "Performance Sport Shoes 86: all-day comfort, $169, 3.8★.",
+            "images": [
+                "https://images.tcdn.com.br/img/img_prod/769517/calca_jeans_hering_slim_31473_1_9af3b631720519dd6813a46ab314ebbe_20250514102115.jpg"
+            ],
+            "creationAt": "2026-02-28T03:36:00.000Z",
+            "updatedAt": "2026-02-28T03:36:00.000Z",
+            "category": "shoes",
+            "price": 169,
+            "rating": 4,
+            "color": "brown",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 88,
+            "title": "Premium Dress Shoes 88",
+            "slug": "premium-dress-shoes-88",
+            "description": "Premium Dress Shoes 88: all-day comfort, $93 sale, 4.4★.",
+            "images": [
+                "https://http2.mlstatic.com/D_NQ_NP_2X_792562-MLB97998385552_112025-F-bermuda-masculina-sarja-colorida-masculino-brim-tradicional.webp"
+            ],
+            "creationAt": "2026-02-28T03:38:44.000Z",
+            "updatedAt": "2026-02-28T03:38:44.000Z",
+            "category": "shoes",
+            "price": 109,
+            "rating": 4,
+            "color": "navy",
+            "size": "l",
+            "salePrice": 93
+        },
+        {
+            "id": 90,
+            "title": "Streetwear Sneakers 90",
+            "slug": "streetwear-sneakers-90",
+            "description": "Streetwear Sneakers 90: all-day comfort, $199, 5.0★.",
+            "images": [
+                "https://m.media-amazon.com/images/I/51I7dbWNR3L._AC_SX679_.jpg"
+            ],
+            "creationAt": "2026-02-28T03:41:37.000Z",
+            "updatedAt": "2026-02-28T03:41:37.000Z",
+            "category": "shoes",
+            "price": 199,
+            "rating": 5,
+            "color": "red",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 92,
+            "title": "Daily Trainer Shoes 92",
+            "slug": "daily-trainer-shoes-92",
+            "description": "Daily Trainer Shoes 92: all-day comfort, $229, 3.8★.",
+            "images": [
+                "https://down-br.img.susercontent.com/file/sg-11134201-7rd4m-lujnlg47qedc36.webp"
+            ],
+            "creationAt": "2026-02-28T03:44:58.000Z",
+            "updatedAt": "2026-02-28T03:44:58.000Z",
+            "category": "shoes",
+            "price": 229,
+            "rating": 4,
+            "color": "beige",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 94,
+            "title": "Comfort Slip-On Shoes 94",
+            "slug": "comfort-slip-on-shoes-94",
+            "description": "Comfort Slip-On Shoes 94: all-day comfort, $152 sale, 4.4★.",
+            "images": [
+                "https://images.tcdn.com.br/img/img_prod/699671/sandalia_salto_medio_feminina_vizzano_6262_474_bege_26227_1_70560100f3da1dfb6c2c88fd4cd2e53d_20250313183449.jpg"
+            ],
+            "creationAt": "2026-02-28T03:48:08.000Z",
+            "updatedAt": "2026-02-28T03:48:08.000Z",
+            "category": "shoes",
+            "price": 179,
+            "rating": 4,
+            "color": "gray",
+            "size": "l",
+            "salePrice": 152
+        },
+        {
+            "id": 96,
+            "title": "Performance Sport Shoes 96",
+            "slug": "performance-sport-shoes-96",
+            "description": "Performance Sport Shoes 96: all-day comfort, $229, 5.0★.",
+            "images": [
+                "https://www.hering.com.br/_next/image?url=https%3A%2F%2Fhering.vtexassets.com%2Farquivos%2Fids%2F5962843%2FH8EV-1ASN-C2.jpg%3Fv%3D639077402653970000&w=1440&q=100"
+            ],
+            "creationAt": "2026-02-28T03:55:02.000Z",
+            "updatedAt": "2026-02-28T03:55:02.000Z",
+            "category": "shoes",
+            "price": 229,
+            "rating": 5,
+            "color": "olive",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 99,
+            "title": "Premium Dress Shoes 99",
+            "slug": "premium-dress-shoes-99",
+            "description": "Premium Dress Shoes 99: all-day comfort, $139, 3.8★.",
+            "images": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNUvDIJFn-LLzcrJUjyeIR4aqIB3fcF_PBvzS2enPPYhh15W5LxT1NmDjfrA3FAWUIvEbmf6KfXV82HCFlCB91E1iVw0bAgHRMcVSZMPpuAqZhNiZUprap9w"
+            ],
+            "creationAt": "2026-02-28T04:01:16.000Z",
+            "updatedAt": "2026-02-28T04:01:16.000Z",
+            "category": "shoes",
+            "price": 139,
+            "rating": 4,
+            "color": "tan",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 101,
+            "title": "Streetwear Sneakers 101",
+            "slug": "streetwear-sneakers-101",
+            "description": "Streetwear Sneakers 101: all-day comfort, $135 sale, 4.4★.",
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3"
+            ],
+            "creationAt": "2026-02-28T04:03:06.000Z",
+            "updatedAt": "2026-02-28T04:03:06.000Z",
+            "category": "shoes",
+            "price": 159,
+            "rating": 4,
+            "color": "blue",
+            "size": "l",
+            "salePrice": 135
+        },
+        {
+            "id": 104,
+            "title": "Daily Trainer Shoes 104",
+            "slug": "daily-trainer-shoes-104",
+            "description": "Daily Trainer Shoes 104: all-day comfort, $129, 5.0★.",
+            "images": [
+                "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNUvDIJFn-LLzcrJUjyeIR4aqIB3fcF_PBvzS2enPPYhh15W5LxT1NmDjfrA3FAWUIvEbmf6KfXV82HCFlCB91E1iVw0bAgHRMcVSZMPpuAqZhNiZUprap9w"
+            ],
+            "creationAt": "2026-02-28T04:07:50.000Z",
+            "updatedAt": "2026-02-28T04:07:50.000Z",
+            "category": "shoes",
+            "price": 129,
+            "rating": 5,
+            "color": "black",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 108,
+            "title": "Comfort Slip-On Shoes 108",
+            "slug": "comfort-slip-on-shoes-108",
+            "description": "Comfort Slip-On Shoes 108: all-day comfort, $10, 3.8★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T04:41:13.000Z",
+            "updatedAt": "2026-02-28T04:41:13.000Z",
+            "category": "shoes",
+            "price": 10,
+            "rating": 4,
+            "color": "white",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 110,
+            "title": "Performance Sport Shoes 110",
+            "slug": "performance-sport-shoes-110",
+            "description": "Performance Sport Shoes 110: all-day comfort, $9 sale, 4.4★.",
+            "images": [
+                "https://placehold.co/600x400"
+            ],
+            "creationAt": "2026-02-28T04:44:16.000Z",
+            "updatedAt": "2026-02-28T04:44:16.000Z",
+            "category": "shoes",
+            "price": 10,
+            "rating": 4,
+            "color": "brown",
+            "size": "l",
+            "salePrice": 9
+        },
+        {
+            "id": 113,
+            "title": "Premium Dress Shoes 113",
+            "slug": "premium-dress-shoes-113",
+            "description": "Premium Dress Shoes 113: all-day comfort, $250, 5.0★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T05:19:19.000Z",
+            "updatedAt": "2026-02-28T05:19:19.000Z",
+            "category": "shoes",
+            "price": 250,
+            "rating": 5,
+            "color": "navy",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 116,
+            "title": "Streetwear Sneakers 116",
+            "slug": "streetwear-sneakers-116",
+            "description": "Streetwear Sneakers 116: all-day comfort, $250, 3.8★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T05:37:46.000Z",
+            "updatedAt": "2026-02-28T05:37:46.000Z",
+            "category": "shoes",
+            "price": 250,
+            "rating": 4,
+            "color": "red",
+            "size": "m",
+            "salePrice": null
+        },
+        {
+            "id": 118,
+            "title": "Daily Trainer Shoes 118",
+            "slug": "daily-trainer-shoes-118",
+            "description": "Daily Trainer Shoes 118: all-day comfort, $213 sale, 4.4★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T05:57:26.000Z",
+            "updatedAt": "2026-02-28T05:57:26.000Z",
+            "category": "shoes",
+            "price": 250,
+            "rating": 4,
+            "color": "beige",
+            "size": "l",
+            "salePrice": 213
+        },
+        {
+            "id": 141,
+            "title": "Comfort Slip-On Shoes 141",
+            "slug": "comfort-slip-on-shoes-141",
+            "description": "Comfort Slip-On Shoes 141: all-day comfort, $99, 5.0★.",
+            "images": [
+                "https://i.imgur.com/wXuQ7bm.jpeg"
+            ],
+            "creationAt": "2026-02-28T10:26:17.000Z",
+            "updatedAt": "2026-02-28T10:26:17.000Z",
+            "category": "shoes",
+            "price": 99,
+            "rating": 5,
+            "color": "gray",
+            "size": "s",
+            "salePrice": null
+        },
+        {
+            "id": 143,
+            "title": "Performance Sport Shoes 143",
+            "slug": "performance-sport-shoes-143",
+            "description": "Performance Sport Shoes 143: all-day comfort, $10, 3.8★.",
+            "images": [
+                "https://i.imgur.com/QkIa5tT.jpeg"
+            ],
+            "creationAt": "2026-02-28T11:04:58.000Z",
+            "updatedAt": "2026-02-28T11:04:58.000Z",
+            "category": "shoes",
+            "price": 10,
+            "rating": 4,
+            "color": "olive",
+            "size": "m",
+            "salePrice": null
+        }
+    ]
+}
