@@ -30,14 +30,17 @@ Home assignment project
 - Any challenges encountered during development
     - Getting familiar with json-server required some refactoring to db.json (a few times), in order to use search params
     - Fetch-filtering was extrmely challenging and took most of the time
+      
             - filter attributes are taken dinamtcally based on the fetched products (probably not the best way - maybe I had to hardcode category based filtes)
             - had to get familiar with useMemo in order to avoid multiple unececcsary product fetches (to get the filter attributes)
             - hasActiveFilters was something that took forever to realize that would avoid previous step
             - I was forced to use help from AI in order to resolve issues with the followin scenario:
+  
                 1. User lands on page 
                 2. User selects a few filters
                 3. User clicks Load More (since there are more producst than the displayed)
                 4. x out of y products displayed - was going crazy - x was increasing on filter check/uncheck (resetting the currentPage was one of the main reasons for the issue)
+  
             - sortBy was another struggle
                 1. sorted setting was not persistent during "Load More" (new products were appending without correct sort)
                 2. I planned to have local state for the SortSelector, but in order to fix the issue from 1. I realised that state should be lifted up.
