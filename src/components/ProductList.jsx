@@ -6,9 +6,8 @@ import ProductCard from "./ProductCard"
 import SortSelector from "./SortSelector"
 import { MdErrorOutline } from "react-icons/md";
 
-
 const ProductList = ({ onAddToCart }) => {
-    const { productData } = useProducts();
+    const { productData, isLoading } = useProducts();
     const { filteredFetchData, hasActiveFilters } = useFilters();
     const [sortBy, setSortBy] = useState("relevance");
 
@@ -40,7 +39,7 @@ const ProductList = ({ onAddToCart }) => {
 
     return (
         <>
-            {products.length ?
+            {products.length &&
                 <div className="product-list__wrapper">
                     <div className="product-list__sort">
                         <p className="product-list__info">{sortedProducts.length} out of {totalItems} products displayed</p>
@@ -53,12 +52,15 @@ const ProductList = ({ onAddToCart }) => {
                     <div className="product-list__actions">
                         <LoadMoreButton />
                     </div>
-                </div> :
+                </div>
+            }
+            {(!products.length && !isLoading) ?
                 <div className="no-results">
                     <div className="no-results__icon"><MdErrorOutline /></div>
                     <h2 className="no-results__title">No results found for your search</h2>
                     <p className="no-results__description">Please try again with different filters</p>
                 </div>
+                : null
             }
         </>
     )

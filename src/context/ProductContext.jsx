@@ -23,7 +23,7 @@ export const ProductProvider = ({ children }) => {
     const [productData, setProductData] = useState(EMPTY_PRODUCTS_STATE);
 
     const [error, setError] = useState(null);
-    const [isLoading, setIsLoading] = useState(false);
+    const [isLoading, setIsLoading] = useState(true);
     const [isAddedToCart, setIsAddedToCart] = useState(false);
     const previousCategoryRef = useRef(category);
 

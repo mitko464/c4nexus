@@ -2,6 +2,7 @@ import { createContext, useState, useMemo, useEffect, useCallback } from "react"
 import { useProducts } from "../hooks/useProducts";
 
 const FiltersContext = createContext();
+
 const EMPTY_FILTER_STATE = {
     color: [],
     size: [],
@@ -21,10 +22,9 @@ const EMPTY_FILTERED_FETCH_STATE = {
 
 export const FiltersProvider = ({ children }) => {
     const { productData, category, setIsLoading, setCurrentPage, currentPage } = useProducts();
-
     const [isFiltersPanelOpen, setIsFiltersPanelOpen] = useState(false);
     const [selectedFilters, setSelectedFilters] = useState(EMPTY_FILTER_STATE);
-    const [filteredFetchData, setFilteredFetchData] = useState(EMPTY_FILTERED_FETCH_STATE)
+    const [filteredFetchData, setFilteredFetchData] = useState(EMPTY_FILTERED_FETCH_STATE);
     const filterData = useMemo(() => productData.products, [productData.products]);
     const hasActiveFilters = useMemo(
         () => Object.values(selectedFilters).some((values) => values.length > 0),
@@ -45,7 +45,7 @@ export const FiltersProvider = ({ children }) => {
         }
 
         return query;
-    }, [selectedFilters])
+    }, [selectedFilters]);
 
     const activeQueryKey = useMemo(() => `${category}${filterQuery}`, [category, filterQuery]);
 
@@ -56,13 +56,13 @@ export const FiltersProvider = ({ children }) => {
 
         for (const product of filterData) {
             if (product.color) {
-                color.add(product.color)
+                color.add(product.color);
             }
             if (product.size) {
-                size.add(product.size)
+                size.add(product.size);
             }
             if (product.rating) {
-                rating.add(product.rating)
+                rating.add(product.rating);
             }
         }
 
@@ -71,15 +71,15 @@ export const FiltersProvider = ({ children }) => {
             size: [...size],
             rating: [...rating]
         }
-    }, [filterData])
+    }, [filterData]);
 
     const fetchFilteredData = useCallback(async () => {
-        setIsLoading(true)
+        setIsLoading(true);
         try {
-            const response = await fetch(`/api/products?category=${category}${filterQuery}&_page=${currentPage}&_per_page=10`)
+            const response = await fetch(`/api/products?category=${category}${filterQuery}&_page=${currentPage}&_per_page=10`);
 
             if (!response.ok) {
-                throw new Error('Filtered fetch failed')
+                throw new Error('Filtered fetch failed');
             }
             const result = await response.json();
 
@@ -92,18 +92,18 @@ export const FiltersProvider = ({ children }) => {
                         ? [...prev.data, ...result.data]
                         : result.data
                 }
-            })
+            });
 
         } catch (error) {
-            console.error(error.message)
+            console.error(error.message);
         } finally {
-            setIsLoading(false)
+            setIsLoading(false);
         }
-    }, [activeQueryKey, category, currentPage, filterQuery, setIsLoading])
+    }, [activeQueryKey, category, currentPage, filterQuery, setIsLoading]);
 
     useEffect(() => {
         if (!hasActiveFilters) {
-            setFilteredFetchData(EMPTY_FILTERED_FETCH_STATE)
+            setFilteredFetchData(EMPTY_FILTERED_FETCH_STATE);
             return;
         }
 
@@ -111,12 +111,12 @@ export const FiltersProvider = ({ children }) => {
     }, [hasActiveFilters, fetchFilteredData])
 
     const resetFilters = () => {
-        setSelectedFilters(EMPTY_FILTER_STATE)
+        setSelectedFilters(EMPTY_FILTER_STATE);
+
         if (currentPage !== 1) {
-            setCurrentPage(1)
+            setCurrentPage(1);
         }
     }
-
 
     return (
         <FiltersContext.Provider value={{

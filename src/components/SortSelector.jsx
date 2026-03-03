@@ -3,8 +3,8 @@ import { useState } from "react";
 const SortSelector = ({ onSortByChange }) => {
     const [sortBy, setSortBy] = useState("relevance");
 
-    const handleSortChange = (event) => {
-        const nextSortBy = event.target.value;
+    const handleSortChange = (e) => {
+        const nextSortBy = e.target.value;
         setSortBy(nextSortBy)
         onSortByChange(nextSortBy)
     }
