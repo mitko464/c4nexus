@@ -39,7 +39,7 @@ const ProductList = ({ onAddToCart }) => {
 
     return (
         <>
-            {products.length &&
+            {products.length !== 0 &&
                 <div className="product-list__wrapper">
                     <div className="product-list__sort">
                         <p className="product-list__info">{sortedProducts.length} out of {totalItems} products displayed</p>
