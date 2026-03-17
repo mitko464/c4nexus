@@ -53,6 +53,25 @@ To complete the task almost every react and javascript related logic/architectur
 
 There is always a better and cleaner solution, but I had a lot of fun and a lot of personal and career doubts during the process! The task really pushed me to the limits and the experience is priceless! I never knew what a struggle it was to recreate features that we use for granted daily and even complained about flaws! Phew, it's over!
 
+!!! Unfortunately this doesn't cover Junior position requirements !!! AI code review made its point
+
+TODO: 
+
+1. Component Structure and Separation of Concerns
+While the application works well functionally, the code could benefit from clearer separation between UI components and business logic. Breaking the application into smaller, reusable components and isolating logic (e.g. filtering/sorting) would improve maintainability and scalability.
+
+2. State Management and Data Flow
+Managing filtering, sorting, and pagination together can become complex. Structuring the state more clearly (e.g. deriving filtered/sorted data instead of mutating it) would make the logic easier to follow and debug.
+
+3. Code Readability and Organization
+Improving naming conventions, file structure, and grouping related logic would make the project easier for others to understand. This is especially important when working in a team environment.
+
+4. UI Polish and User Experience
+The core UI is functional, but further refinement (spacing, alignment, consistency, responsiveness edge cases) would significantly improve the overall user experience.
+
+5. Documentation and Technical Explanation
+Providing more detailed explanations in the README (such as why certain decisions were made, what challenges were encountered, and how they were solved) would better demonstrate your problem-solving approach and engineering thinking.
+
 ====================================================
 
 To run the project
